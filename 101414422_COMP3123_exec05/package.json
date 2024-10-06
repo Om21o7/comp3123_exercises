@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "#### Section A: Practical Coding Tasks",
   "devDependencies": {
     "nodemon": "^3.1.7"
   },
